@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+
+    <string name="movie_name">Movie Title</string>
+
+    <string name="ano_movie"> Año Pelicula</string>
+
+    <string name="poster"> Poster </string>
+
+    <string name="sinopsis">Sinopsis</string>
+
+    <string name="duracion">Duración</string>
+
+    <string name="director">Director</string>
+
+    <string name="genero">Genero</string>
+
+    <string name="pais">País</string>
+
+
+</resources>
