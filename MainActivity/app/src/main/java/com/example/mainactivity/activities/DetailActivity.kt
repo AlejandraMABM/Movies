@@ -58,6 +58,7 @@ class DetailActivity : AppCompatActivity() {
         binding.paisTextView.text = movie.country
         binding.generoTextView.text = movie.genre
         binding.duracionTextView.text = movie.runtime
+        binding.sinopsisTextView.text = movie.plot
     }
 
     private fun getSuperhero(id:String) {
